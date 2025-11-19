@@ -2,7 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.vscode/
+datadsa/
+desktop.ini/
+react/
 # C extensions
 *.so
 
